@@ -3,7 +3,7 @@ Repository for Fit Pixels, Get Labels: Meta learned implicit networks for medica
 
 [Project page](https://kushalvyas.github.io/metaseg.html) | [Paper](https://link.springer.com/chapter/10.1007/978-3-032-04947-6_19) | [Openreview](https://papers.miccai.org/miccai-2025/0340-Paper3113.html) | [Demo (coming soon!)](https://colab.research.google.com/drive/1C9xon4HPBtXA_GTxPuSNRlTIU853qbIt?usp=sharing)
 
-![metaseg_coverfigure](metaseg_coverfigure.png)
+![metaseg_coverfigure](assets/metaseg_coverfigure.png)
 
 ## Installation instructions.
 Please install the following packages for running MetaSeg. You can find then in requirements.txt. Feel free to create a seperate virtual venv/conda environment and then install specific python packages.
@@ -19,7 +19,7 @@ Our codebase (MetaSeg) also depends on the [Alpine](https://github.com/kushalvya
 
 ## Instructions to run code // FIT pixels, GET labels:
 
-![runtime](metaseg_progression.png)
+![runtime](assets/metaseg_progression.png)
 
 Each __experiment__ is its own jupyter notebook. 
 
