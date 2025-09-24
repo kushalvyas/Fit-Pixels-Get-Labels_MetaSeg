@@ -42,15 +42,15 @@ We use the U-Net proposed by [Buda et.al. from PyTorch Hub](https://pytorch.org/
 
 If you find our code or work useful, please consider citing us!
 
-    @InProceedings{vyas2025metaseg,
-      author="Vyas, Kushal
-        and Veeraraghavan, Ashok
-        and Balakrishnan, Guha",
-      title="Fit Pixels, Get Labels: Meta-learned Implicit Networks for Image Segmentation",
-      booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025",
-      year="2026",
-      publisher="Springer Nature Switzerland",
-      pages="194--203",
-      isbn="978-3-032-04947-6"
+    @InProceedings{VyaKus_Fit_MICCAI2025,
+        author = { Vyas, Kushal AND Veeraraghavan, Ashok AND Balakrishnan, Guha},
+        title = { { Fit Pixels, Get Labels: Meta-Learned Implicit Networks for Image Segmentation } },
+        booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
+        year = {2025},
+        publisher = {Springer Nature Switzerland},
+        volume = {LNCS 15962},
+        month = {September},
+        page = {194 -- 203}
     }
+
 
