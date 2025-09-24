@@ -1,5 +1,5 @@
 # Fit Pixels, Get Labels: Metalearned Implicit Networks for Image Segmentation `(MetaSeg)`
-Repository for Fit Pixels, Get Labels: Meta learned implicit networks for medical image segmentation (MICCAI'25 ORAL presentation). 
+Repository for Fit Pixels, Get Labels: Meta learned implicit networks for medical image segmentation (MICCAI'25 ORAL presentation) <b><span style="color:red;">Coming soon!</span></b>. 
 
 [Project page](https://kushalvyas.github.io/metaseg.html) | [Paper](https://link.springer.com/chapter/10.1007/978-3-032-04947-6_19) | [Openreview](https://papers.miccai.org/miccai-2025/0340-Paper3113.html) | [Demo (coming soon!)](https://colab.research.google.com/drive/1C9xon4HPBtXA_GTxPuSNRlTIU853qbIt?usp=sharing)
 
