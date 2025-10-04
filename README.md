@@ -1,4 +1,4 @@
-# Fit Pixels, Get Labels: Metalearned Implicit Networks for Image Segmentation `(MetaSeg)` 
+# Fit Pixels, Get Labels: Meta-learned Implicit Networks for Image Segmentation `(MetaSeg)` 
 Repository for Fit Pixels, Get Labels: Meta learned implicit networks for medical image segmentation (MICCAI'25 Best paper award recipient, ORAL presentation).
 
 [Project page](https://kushalvyas.github.io/metaseg.html) | [Paper](https://link.springer.com/chapter/10.1007/978-3-032-04947-6_19) | [Openreview](https://papers.miccai.org/miccai-2025/0340-Paper3113.html) | [Demo (coming soon!)](https://colab.research.google.com/drive/1C9xon4HPBtXA_GTxPuSNRlTIU853qbIt?usp=sharing)
@@ -16,6 +16,9 @@ Our codebase (MetaSeg) also depends on the [Alpine](https://github.com/kushalvya
     cd alpine
     pip install .
 
+
+## Instructions on how to prepare dataset.
+We provide the train/va/test splits in config/oasis_splits.json. Please prepend the correct directory paths as per your system configuration in the json files.
 
 ## Instructions to run code // FIT pixels, GET labels:
 
