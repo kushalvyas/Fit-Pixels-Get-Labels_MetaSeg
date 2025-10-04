@@ -1,4 +1,4 @@
-# Fit Pixels, Get Labels: Metalearned Implicit Networks for Image Segmentation `(MetaSeg)` (Coming soon!)
+# Fit Pixels, Get Labels: Metalearned Implicit Networks for Image Segmentation `(MetaSeg)` 
 Repository for Fit Pixels, Get Labels: Meta learned implicit networks for medical image segmentation (MICCAI'25 Best paper award recipient, ORAL presentation).
 
 [Project page](https://kushalvyas.github.io/metaseg.html) | [Paper](https://link.springer.com/chapter/10.1007/978-3-032-04947-6_19) | [Openreview](https://papers.miccai.org/miccai-2025/0340-Paper3113.html) | [Demo (coming soon!)](https://colab.research.google.com/drive/1C9xon4HPBtXA_GTxPuSNRlTIU853qbIt?usp=sharing)
@@ -25,7 +25,7 @@ Each __experiment__ is its own jupyter notebook.
 
 1. __2D segmentation (5 class):__ run metaseg_2d_5classes.ipynb
 2. __2D segmentation (24 class):__ run metaseg_2d_24classes.ipynb
-3. __3D Segmentation (5 class):__ run metaseg_3d_5classes.ipynb 
+3. __3D Segmentation (5 class):__ run metaseg_3d_5classes.ipynb ( will update repository with 3D code soon!)
 
 __For visualization:__
 We also provide a script to visualize the principal components of learned MetaSeg features. Please find that in *metaseg_vis_pca.ipynb*.
